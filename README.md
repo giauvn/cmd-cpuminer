@@ -10,9 +10,9 @@ sudo ./cpuminer -o stratum+tcp://litecoinpool.org:3333 -u giauvn.4 -p 1 -a scryp
 sudo ./cpuminer -a yespowerr16 -o stratum+tcp://yespowerR16.na.mine.zergpool.com:6534 -u DQBKhgK3b4QcFPS48dnLQvPWmD8QEMphth -p c=DOGE,mc=YTN,ID=msi15
 ```
 #### https://pool.rplant.xyz/
-  * ✓ AVN Avian Network minotaurx (XeggeX)
+  * ✓ AVN Avian Network minotaurx (Wallet)
 ```
-sudo ./cpuminer -a minotaurx  -o stratum+tcp://stratum-na.rplant.xyz:7068 -u RCeuCL6JoYMUTUK4uH2BKuMQe5uw6XDeWY.MSI15
+sudo ./cpuminer -a minotaurx  -o stratum+tcp://stratum-na.rplant.xyz:7068 -u RU9t9jQCCZTMBZknQ9zLe9Qak5qk9c466D.J7pro
 ```
 TradeOgre-2025
 ```
