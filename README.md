@@ -5,6 +5,9 @@ Verus Wallet
 ```
 RFEy34aeTcV5WiAw5QNTz5iojZGHhaHbLn
 ```
+```
+stratum+tcp://verus.farm:9999
+```
 #### https://www.litecoinpool.org
 ```
 sudo ./cpuminer -o stratum+tcp://litecoinpool.org:3333 -u giauvn.4 -p 1 -a scrypt
